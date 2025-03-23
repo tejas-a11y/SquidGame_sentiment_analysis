@@ -1,4 +1,4 @@
-# 📦 Squid game Sentiment Analysis
+# 📓 Squid game Sentiment Analysis
 
 ## 🌟 Highlights
 
